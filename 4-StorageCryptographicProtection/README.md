@@ -10,6 +10,8 @@
 
 (TODO)
 
+从数据库中SELECT出来一串字符串，看了一下很像凯撒加密，先用了ROT13（其实是因为没准备好工具又懒得写脚本，vim自带ROT13试了一下……）就直接出flag了。
+
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/>
