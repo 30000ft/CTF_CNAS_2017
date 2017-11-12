@@ -8,7 +8,7 @@
 6. Integrity Protection - 6
 7. IP Restriction - 7
 8. Remaining Information Protection - 8
-9. Web Application Protection - 9
+9. Web Application Comprehensive Protection - 9
 
 ## Missing write-ups
-10. All in One - 10
+10. The Boss - 10
