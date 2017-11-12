@@ -1,11 +1,8 @@
 # CNAS/MPS CTF 2017: Identification And Authentication
 
-**Category:** Crypto
 **Points:** 100
 
-> Mission Description
-
->[PutResourceHere](PutResourceHere)  
+> 网站中只有一个机器人的图片   
 
 ## Write-up
 

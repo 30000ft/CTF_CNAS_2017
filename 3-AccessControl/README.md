@@ -1,11 +1,10 @@
 # CNAS/MPS CTF 2017: Access Control 
 
-**Category:** Crypto
 **Points:** 150
 
-> Mission Description
+> 这个网站只有管理员才能访问
 
->[PutResourceHere](PutResourceHere)  
+> [PutResourceHere](PutResourceHere)  
 
 ## Write-up
 

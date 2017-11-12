@@ -1,11 +1,10 @@
 # CNAS/MPS CTF 2017: Integrity Protection 
 
-**Category:** Crypto
 **Points:** 200
 
-> Mission Description
+> 应用系统传输加密用到了RSA，但传输时数据被破坏，请还原
 
->[PutResourceHere](PutResourceHere)  
+> [PutResourceHere](PutResourceHere)  
 
 ## Write-up
 

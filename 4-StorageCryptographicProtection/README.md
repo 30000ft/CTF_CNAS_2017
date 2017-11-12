@@ -1,11 +1,10 @@
 # CNAS/MPS CTF 2017: Storage Cryptographic Protection  
 
-**Category:** Crypto
 **Points:** 150
 
-> Mission Description
+> 你发现了不法分子在服务器上的木马入口，请查找其在数据库上拿到的数据
 
->[PutResourceHere](PutResourceHere)  
+> [PutResourceHere](PutResourceHere)  
 
 ## Write-up
 

@@ -1,11 +1,10 @@
 # CNAS/MPS CTF 2017: Audit And Accountability
 
-**Category:** Crypto
 **Points:** 100
 
-> Mission Description
+> 网站日志里面放了一个移动互联网的东西
 
->[PutResourceHere](PutResourceHere)  
+> [PutResourceHere](PutResourceHere)  
 
 ## Write-up
 
