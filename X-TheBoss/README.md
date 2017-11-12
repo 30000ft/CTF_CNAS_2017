@@ -1,7 +1,7 @@
 # CNAS/MPS CTF 2017: The Boss
 
 **Category:** Crypto
-**Points:** 100
+**Points:** 400
 
 > Mission Description
 

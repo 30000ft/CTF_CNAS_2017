@@ -1,7 +1,7 @@
 # CNAS/MPS CTF 2017: Web Application Comprehensive Protection
 
 **Category:** Crypto
-**Points:** 100
+**Points:** 300
 
 > Mission Description
 

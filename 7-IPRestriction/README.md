@@ -1,7 +1,7 @@
 # CNAS/MPS CTF 2017: IP Restriction 
 
 **Category:** Crypto
-**Points:** 100
+**Points:** 200
 
 > Mission Description
 

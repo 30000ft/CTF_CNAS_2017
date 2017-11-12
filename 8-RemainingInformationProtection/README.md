@@ -1,8 +1,7 @@
 # CNAS/MPS CTF 2017: Remaining Information Protection 
 
 **Category:** Crypto
-**Points:** 100
-**Description:**
+**Points:** 300
 
 > Mission Description
 

@@ -1,7 +1,7 @@
 # CNAS/MPS CTF 2017: Malicious Code Protection 
 
 **Category:** Crypto
-**Points:** 100
+**Points:** 200
 
 > Mission Description
 

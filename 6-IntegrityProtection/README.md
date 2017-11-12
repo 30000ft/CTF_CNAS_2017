@@ -1,8 +1,7 @@
 # CNAS/MPS CTF 2017: Integrity Protection 
 
 **Category:** Crypto
-**Points:** 100
-**Description:**
+**Points:** 200
 
 > Mission Description
 

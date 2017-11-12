@@ -1,7 +1,7 @@
 # CNAS/MPS CTF 2017: Access Control 
 
 **Category:** Crypto
-**Points:** 100
+**Points:** 150
 
 > Mission Description
 
