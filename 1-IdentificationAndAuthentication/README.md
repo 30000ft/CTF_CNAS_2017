@@ -4,6 +4,8 @@
 
 > 网站中只有一个机器人的图片   
 
+![Robot](score-robot.gif.png)
+
 ## Write-up
 
 (TODO)
