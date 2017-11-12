@@ -12,3 +12,8 @@
 
 ## Missing write-ups
 10. The Boss - 10
+
+## Other write-ups and resources
+
+* <https://ctf-team.vulnhub.com/>
+* <https://www.ichunqiu.com/racing>
