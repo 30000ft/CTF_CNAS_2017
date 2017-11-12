@@ -1,4 +1,4 @@
-# CNAS/MPS CTF 2017: Identification And Authentication
+# CNAS/MPS CTF 2017: Remaining Information Protection 
 
 **Category:** Crypto
 **Points:** 100

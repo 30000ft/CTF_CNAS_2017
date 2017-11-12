@@ -1,8 +1,7 @@
-# CNAS/MPS CTF 2017: Identification And Authentication
+# CNAS/MPS CTF 2017: Storage Cryptographic Protection  
 
 **Category:** Crypto
 **Points:** 100
-**Description:**
 
 > Mission Description
 

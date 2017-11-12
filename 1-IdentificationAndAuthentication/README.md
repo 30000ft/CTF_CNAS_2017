@@ -2,7 +2,6 @@
 
 **Category:** Crypto
 **Points:** 100
-**Description:**
 
 > Mission Description
 
