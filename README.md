@@ -15,5 +15,7 @@
 
 ## Other write-ups and resources
 
+* <http://www.hacker.org/>
+* <http://www.wechall.net/>
 * <https://ctf-team.vulnhub.com/>
-* <https://www.ichunqiu.com/racing>
+* <https://www.ichunqiu.com/racing/>
