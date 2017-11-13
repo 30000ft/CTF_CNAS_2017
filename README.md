@@ -6,11 +6,11 @@
 1. Storage Cryptographic Protection - 4
 1. Malicious Code Protection - 5
 1. Integrity Protection - 6
-1. IP Restriction - 7
 1. Remaining Information Protection - 8
 1. Web Application Comprehensive Protection - 9
 
 ## Missing write-ups
+1. IP Restriction - 7
 1. The Boss - 10
 
 ## Other write-ups and resources
